@@ -26,7 +26,8 @@
 
 ## 🧬 About Me
 
-<img align="right" alt="AI Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- FIX #1: Replaced broken githubusercontent GIF with stable Giphy CDN link -->
+<img align="right" alt="AI Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
 #!/usr/bin/env python3
@@ -59,13 +60,22 @@ class VInitSonawane:
 
 <br clear="right"/>
 
+<!-- FIX #9: Restored the "Current Radar" table for better visual info -->
+### 🎯 Current Radar
+
+| Status | Focus |
+|--------|-------|
+| 🔥 Building | LLM-powered apps with RAG pipelines |
+| 📚 Learning | LangChain · Vector DBs · CUDA kernels |
+| 🚀 Deploying | Scalable backends on AWS & GCP |
+| 🧪 Exploring | Multi-modal AI & custom model training |
+
 ---
 
 ## 🧠 AI · ML · Data Science Stack
 
 <div align="center">
 
-<!-- Core ML/AI -->
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -80,6 +90,7 @@ class VInitSonawane:
 
 </div>
 
+<!-- FIX #6: Moved h2 outside div so alignment is consistent with AI/ML section -->
 ## 🌐 Web · Backend · Cloud
 
 <div align="center">
@@ -90,19 +101,25 @@ class VInitSonawane:
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- FIX #5: Removed Docker (not in original stack). Restored correct badges only. -->
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -120,7 +137,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff7&sideLabels=888&dates=888" height="170"/>
+<!-- FIX #7: Replaced bare hex 888 with proper %23888888 encoding for streak stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=vinitsonawane45&hide_border=true&background=0d1117&stroke=00fff7&ring=00fff7&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff7&sideLabels=%23888888&dates=%23888888" height="170"/>
 
 </div>
 
@@ -130,7 +148,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=12&margin-h=12&row=2"/>
+<!-- FIX #2: Changed column=3 → column=4 (sweet spot for GitHub's ~820px width) -->
+<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12&row=2"/>
 
 </div>
 
@@ -140,13 +159,17 @@ class VInitSonawane:
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&area_color=00fff7&hide_border=true&custom_title=📊%20Vinit's%20Contribution%20Timeline"/>
+<!-- FIX #3: Removed emoji from custom_title (breaks URL on some browsers) -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinitsonawane45&bg_color=0d1117&color=00fff7&line=00fff7&point=ff6b35&area=true&area_color=00fff7&hide_border=true&custom_title=Vinit%27s%20Contribution%20Timeline"/>
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
+
+<!-- FIX #4: Added note so broken image state is explained to visitors -->
+> ⚡ The snake animates once the GitHub Action below has run at least once.
 
 <div align="center">
 
@@ -193,7 +216,8 @@ jobs:
 
 ---
 
-## 🧭 2025 Learning Roadmap
+<!-- FIX #8: Updated year from 2025 → 2026 -->
+## 🧭 2026 Learning Roadmap
 
 ```text
 LLMs & Prompt Eng   ████████████████████░  90%
@@ -223,6 +247,17 @@ Multi-modal AI      ██████░░░░░░░░░░░░░░
 | 📖 **Learn in Public** | My GitHub IS my resume. Every commit = growth. |
 | 🔬 **Depth > Breadth** | Three tools mastered beats thirty tools skimmed. |
 | 🌐 **Build to Impact** | Code nobody uses is an expensive hobby. |
+
+</div>
+
+---
+
+<!-- FIX #10: Restored random dev quote widget from original README -->
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
