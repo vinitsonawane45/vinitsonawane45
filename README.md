@@ -153,9 +153,8 @@ class VInitSonawane:
 
 <div align="center">
 
-<!-- TROPHY: tokyonight has solid bg (no-bg=false) so text is always visible on both light/dark GitHub -->
-<!-- row=2 removed — auto-renders however many trophies exist, never shows empty broken rows -->
-<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=tokyonight&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8"/>
+<!-- TROPHY: rank=SECRET,SSS,SS,S,AAA,AA,A,B,C forces ALL trophies to render — default only shows A+ which may be empty for newer accounts -->
+<img src="https://github-profile-trophy.vercel.app/?username=vinitsonawane45&theme=tokyonight&no-frame=false&no-bg=false&column=4&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 
 </div>
 
