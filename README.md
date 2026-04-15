@@ -34,7 +34,7 @@
 
 class VInitSonawane:
 
-    ROLE       = "CS Final Year • AI Engineer"
+    ROLE       = "Computer Science Final Year • AI Engineer"
     LOCATION   = "Nagpur, India 🇮🇳"
 
     stack = {
